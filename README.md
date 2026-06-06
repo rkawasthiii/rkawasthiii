@@ -6,7 +6,7 @@ The most rewarding part of building software isn't writing it—it's understandi
 
 Lately, that journey has taken me through backend systems, integrations, and healthcare technology.
 
-
+---
 
 ### What I'm currently working on
 
@@ -66,6 +66,6 @@ Event-driven, Kubernetes-deployed backend platform built to explore how real dis
 
 ### Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rkawasthi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rkawasthi889@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rkawasthii)
